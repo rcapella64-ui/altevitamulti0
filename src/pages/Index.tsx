@@ -194,7 +194,7 @@ const Index = () => {
         </div>
       </section>
 
-      {/* SEÇÃO 4 — OS QUATRO OLHARES */}
+      {/* SEÇÃO 4 — OS CINCO OLHARES */}
       <section className="section-pad ink-bg">
         <div className="container-prose">
           <Reveal>
