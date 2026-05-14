@@ -202,7 +202,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <h2 className="font-serif-display text-4xl sm:text-6xl text-center mt-8 mb-20 text-paper">
-              Os quatro olhares
+              Os cinco olhares
               <br />
               <span className="font-serif-italic text-leaf-soft">sobre quem você ama.</span>
             </h2>
