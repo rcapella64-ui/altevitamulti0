@@ -198,7 +198,7 @@ const Index = () => {
       <section className="section-pad ink-bg">
         <div className="container-prose">
           <Reveal>
-            <p className="tracking-eyebrow text-leaf-soft text-center">iv — os quatro olhares</p>
+            <p className="tracking-eyebrow text-leaf-soft text-center">iv — os cinco olhares</p>
           </Reveal>
           <Reveal delay={1}>
             <h2 className="font-serif-display text-4xl sm:text-6xl text-center mt-8 mb-20 text-paper">
