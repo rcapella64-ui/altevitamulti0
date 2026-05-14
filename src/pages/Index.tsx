@@ -83,7 +83,7 @@ const Index = () => {
       >
         <Reveal>
           <p className="tracking-eyebrow text-leaf-deep mb-12">
-            Altevita — Um Programa Reservado
+            ALTEVITA MULTI — UM PROGRAMA RESERVADO
           </p>
         </Reveal>
 
