@@ -188,7 +188,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={3}>
             <p className="mt-10 text-base sm:text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes — são tudo.
+              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes são tudo.
             </p>
           </Reveal>
         </div>
