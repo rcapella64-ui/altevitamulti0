@@ -207,9 +207,9 @@ const Index = () => {
               <span className="font-serif-italic text-leaf-soft">sobre quem você ama.</span>
             </h2>
           </Reveal>
-          <div className="grid md:grid-cols-2 gap-x-16 gap-y-16">
+          <div className="grid md:grid-cols-3 gap-x-16 gap-y-16">
             {pillars.map((p, i) => (
-              <Reveal key={p.name} delay={(i % 4 + 1) as 1 | 2 | 3 | 4}>
+              <Reveal key={p.name} delay={((i % 5) + 1) as 1 | 2 | 3 | 4}>
                 <div className="border-t border-paper/20 pt-8">
                   <p className="tracking-eyebrow text-leaf-soft mb-6">0{i + 1}</p>
                   <h3 className="font-serif-display text-3xl sm:text-4xl mb-6 text-paper">{p.name}</h3>
