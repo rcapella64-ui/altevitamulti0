@@ -8,7 +8,7 @@ const pillars = [
   { name: "Nutrição", phrase: "Para que cada refeição seja celebração, não prescrição." },
   { name: "Fisioterapia", phrase: "Para que o corpo continue sendo casa." },
   { name: "Terapia Ocupacional", phrase: "Para que os dias tenham cor, forma e propósito." },
-  { name: "Fonoaudiologia", phrase: "Para que a voz continue a ecoar, clara e presente." },
+  { name: "Fonoaudiologia", phrase: "Para que cada palavra e cada refeição sigam seguras." },
 ];
 
 const journey = [
