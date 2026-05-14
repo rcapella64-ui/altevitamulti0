@@ -162,7 +162,7 @@ const Index = () => {
             </Reveal>
             <Reveal delay={2} className="md:col-span-6 md:col-start-7">
               <p className="text-lg text-ink-soft leading-relaxed">
-                A diferença está no que se vê — e, sobretudo, no que se sente.
+                A diferença está no que se vê e, sobretudo, no que se sente.
               </p>
             </Reveal>
           </div>
