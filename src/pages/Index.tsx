@@ -162,7 +162,7 @@ const Index = () => {
             </Reveal>
             <Reveal delay={2} className="md:col-span-6 md:col-start-7">
               <p className="text-lg text-ink-soft leading-relaxed">
-                A diferença está no que se vê — e, sobretudo, no que se sente.
+                A diferença está no que se vê e, sobretudo, no que se sente.
               </p>
             </Reveal>
           </div>
@@ -188,7 +188,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={3}>
             <p className="mt-10 text-base sm:text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes — são tudo.
+              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes são tudo.
             </p>
           </Reveal>
         </div>
