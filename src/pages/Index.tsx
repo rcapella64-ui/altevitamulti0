@@ -236,7 +236,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={3}>
             <p className="mt-12 text-lg text-ink-soft leading-relaxed">
-              Não há dois planos iguais — porque não há duas histórias iguais.
+              Não há dois planos iguais porque não há duas histórias iguais.
             </p>
           </Reveal>
         </div>
