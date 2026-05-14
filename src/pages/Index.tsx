@@ -108,13 +108,6 @@ const Index = () => {
             o cuidado mais completo que existe.
           </p>
         </Reveal>
-
-        <Reveal delay={4}>
-          <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 text-ink-muted">
-            <span className="tracking-eyebrow text-[0.62rem]">role para começar</span>
-            <span className="hairline-vertical h-12 animate-pulse" aria-hidden />
-          </div>
-        </Reveal>
       </section>
 
       {/* SEÇÃO 1 — A VERDADE QUE NINGUÉM DIZ */}
