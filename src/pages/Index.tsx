@@ -96,8 +96,8 @@ const Index = () => {
         </Reveal>
 
         <Reveal delay={2}>
-          <h1 className="font-serif-display text-[18vw] sm:text-[14rem] leading-[0.85] text-ink mb-10">
-            Equipe Multi
+          <h1 className="font-serif-display sm:text-[14rem] leading-[0.85] text-ink mb-10 text-9xl font-normal">
+            Multidisciplinar
           </h1>
         </Reveal>
 
