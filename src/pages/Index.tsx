@@ -14,23 +14,23 @@ const pillars = [
 const journey = [
   {
     roman: "I",
-    title: "A Imersão",
-    text: "Os primeiros 15 dias são dedicados a conhecer profundamente quem você ama. Cada especialista observa, escuta, registra.",
+    title: "A Escuta",
+    text: "Os primeiros dias são para conhecer. Para escutar quem você ama, em silêncio e sem pressa. Cada olhar do time se aproxima, com delicadeza.",
   },
   {
     roman: "II",
     title: "O Plano Único",
-    text: "Um dossiê é construído. Assinado por cada especialista. Entregue em mãos a você.",
+    text: "Um plano nasce, escrito a muitas mãos. Pensado para uma única pessoa. Entregue, em mãos, a você.",
   },
   {
     roman: "III",
     title: "O Cuidado Contínuo",
-    text: "A jornada se desenrola. Encontros frequentes. Uma carta mensal chega à sua casa.",
+    text: "Os dias seguem, acompanhados de perto. E, todo mês, uma carta chega à sua casa — para contar como ela ou ele tem florescido.",
   },
   {
     roman: "IV",
     title: "O Reencontro",
-    text: "A cada três meses, o time inteiro se reúne com você. Para celebrar caminhos. Para ajustar rumos.",
+    text: "A cada três meses, o time inteiro se reúne com você. Para celebrar caminhos. Para ajustar gestos. Para seguir, juntos.",
   },
 ];
 
@@ -38,17 +38,17 @@ const deliverables = [
   {
     label: "I.",
     name: "O Dossiê",
-    text: "Uma pasta entregue em suas mãos. Dentro: o plano único pensado para quem você ama, assinado por cada especialista. Para guardar. Para reler. Para mostrar.",
+    text: "Uma pasta entregue em suas mãos. Dentro, o plano único pensado para quem você ama, com a palavra de cada olhar do time. Para guardar. Para reler. Para mostrar a quem também ama.",
   },
   {
     label: "II.",
     name: "A Carta Mensal",
-    text: "Toda última sexta-feira do mês, uma carta chega. Com a evolução. Com as conquistas. Com palavras de cada especialista do time. Um ritual.",
+    text: "Toda última sexta-feira do mês, uma carta chega. Com as pequenas conquistas. Com as palavras de quem esteve ao lado. Um gesto que vira ritual.",
   },
   {
     label: "III.",
     name: "O Encontro Trimestral",
-    text: "A cada três meses, o time se reúne com você — presencialmente ou por vídeo. Não para reportar números. Para celebrar caminhos.",
+    text: "A cada três meses, o time se reúne com você — em casa ou por vídeo. Não para falar de números. Para conversar sobre alguém querido.",
   },
 ];
 
@@ -118,13 +118,13 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl text-ink mt-12 leading-[1.15]">
-              Toda família que coloca um pai ou uma mãe sob cuidados se faz, em silêncio, a mesma pergunta:
+              Toda família que confia o cuidado de um pai ou de uma mãe a outras mãos se faz, em silêncio, a mesma pergunta:
               <span className="font-serif-italic text-leaf-deep"> estou fazendo o suficiente?</span>
             </p>
           </Reveal>
           <Reveal delay={2}>
             <p className="mt-10 text-lg text-ink-soft leading-relaxed">
-              O Altevita Multi nasceu para que essa pergunta tenha, finalmente, uma resposta.
+              O Altevita Multi nasceu para que essa pergunta, enfim, encontre repouso.
             </p>
           </Reveal>
           <Reveal delay={3}>
@@ -172,8 +172,8 @@ const Index = () => {
             <p className="font-serif-display text-4xl sm:text-6xl mt-12 leading-[1.1]">
               O Multi não é para todos.
               <br />
-              <span className="font-serif-italic text-leaf-deep">É para quem escolhe</span>
-              <br />o mais alto padrão de cuidado da Altevita.
+              <span className="font-serif-italic text-leaf-deep">É para quem deseja</span>
+              <br />o cuidado mais inteiro que existe.
             </p>
           </Reveal>
           <Reveal delay={2}>
@@ -181,7 +181,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={3}>
             <p className="mt-10 text-base sm:text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes são tudo.
+              Um programa reservado a famílias que entendem que presença, escuta e delicadeza não são detalhes — são tudo.
             </p>
           </Reveal>
         </div>
@@ -224,7 +224,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl mt-14 leading-[1.15]">
-              Toda semana, os cinco especialistas do Multi se reúnem em torno de um único objetivo:
+              Toda semana, os cinco olhares do Multi se encontram em torno de uma única intenção:
             </p>
           </Reveal>
           <Reveal delay={2}>
@@ -312,14 +312,14 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl mt-12 leading-[1.18] text-paper">
-              Você não está adicionando serviços a um contrato.
+              Você não está contratando um cuidado.
               <br />
               <br />
               <span className="text-paper/70">Você está</span> escolhendo dormir mais tranquilo à noite.
               <br />
-              <span className="text-paper/70">Escolhendo</span> ter o que mostrar aos seus irmãos.
+              <span className="text-paper/70">Escolhendo</span> ter o que contar aos seus irmãos.
               <br />
-              <span className="text-paper/70">Escolhendo</span> saber, com certeza, que está fazendo o melhor possível por quem te criou.
+              <span className="text-paper/70">Escolhendo</span> saber, no fundo do peito, que está fazendo o melhor possível por quem te criou.
             </p>
           </Reveal>
           <Reveal delay={2}>
@@ -350,7 +350,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={2}>
             <p className="text-center text-lg text-ink-soft max-w-2xl mx-auto leading-relaxed mt-8">
-              Não porque assinaram um contrato. Porque encontraram um padrão de cuidado que não se troca.
+              Não por um contrato. Por um cuidado que, uma vez sentido, não se troca.
             </p>
           </Reveal>
 
@@ -392,7 +392,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={2}>
             <p className="mt-12 text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Converse com a coordenação da Altevita. Conheça o Multi. E descubra se ele é, também, o que você deseja para quem você ama.
+              Converse com quem cuida da Altevita. Conheça o Multi de perto. E descubra se é também isto que você sonha para quem você ama.
             </p>
           </Reveal>
           <Reveal delay={3}>
