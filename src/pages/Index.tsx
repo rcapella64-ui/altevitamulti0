@@ -172,8 +172,8 @@ const Index = () => {
             <p className="font-serif-display text-4xl sm:text-6xl mt-12 leading-[1.1]">
               O Multi não é para todos.
               <br />
-              <span className="font-serif-italic text-leaf-deep">É para quem escolhe</span>
-              <br />o mais alto padrão de cuidado da Altevita.
+              <span className="font-serif-italic text-leaf-deep">É para quem deseja</span>
+              <br />o cuidado mais inteiro que existe.
             </p>
           </Reveal>
           <Reveal delay={2}>
@@ -181,7 +181,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={3}>
             <p className="mt-10 text-base sm:text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Um programa reservado a famílias que entendem que presença, evolução e sofisticação no cuidado não são detalhes são tudo.
+              Um programa reservado a famílias que entendem que presença, escuta e delicadeza não são detalhes — são tudo.
             </p>
           </Reveal>
         </div>
