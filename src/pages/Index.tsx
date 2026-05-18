@@ -14,23 +14,23 @@ const pillars = [
 const journey = [
   {
     roman: "I",
-    title: "A Imersão",
-    text: "Os primeiros 15 dias são dedicados a conhecer profundamente quem você ama. Cada especialista observa, escuta, registra.",
+    title: "A Escuta",
+    text: "Os primeiros dias são para conhecer. Para escutar quem você ama, em silêncio e sem pressa. Cada olhar do time se aproxima, com delicadeza.",
   },
   {
     roman: "II",
     title: "O Plano Único",
-    text: "Um dossiê é construído. Assinado por cada especialista. Entregue em mãos a você.",
+    text: "Um plano nasce, escrito a muitas mãos. Pensado para uma única pessoa. Entregue, em mãos, a você.",
   },
   {
     roman: "III",
     title: "O Cuidado Contínuo",
-    text: "A jornada se desenrola. Encontros frequentes. Uma carta mensal chega à sua casa.",
+    text: "Os dias seguem, acompanhados de perto. E, todo mês, uma carta chega à sua casa — para contar como ela ou ele tem florescido.",
   },
   {
     roman: "IV",
     title: "O Reencontro",
-    text: "A cada três meses, o time inteiro se reúne com você. Para celebrar caminhos. Para ajustar rumos.",
+    text: "A cada três meses, o time inteiro se reúne com você. Para celebrar caminhos. Para ajustar gestos. Para seguir, juntos.",
   },
 ];
 
@@ -38,17 +38,17 @@ const deliverables = [
   {
     label: "I.",
     name: "O Dossiê",
-    text: "Uma pasta entregue em suas mãos. Dentro: o plano único pensado para quem você ama, assinado por cada especialista. Para guardar. Para reler. Para mostrar.",
+    text: "Uma pasta entregue em suas mãos. Dentro, o plano único pensado para quem você ama, com a palavra de cada olhar do time. Para guardar. Para reler. Para mostrar a quem também ama.",
   },
   {
     label: "II.",
     name: "A Carta Mensal",
-    text: "Toda última sexta-feira do mês, uma carta chega. Com a evolução. Com as conquistas. Com palavras de cada especialista do time. Um ritual.",
+    text: "Toda última sexta-feira do mês, uma carta chega. Com as pequenas conquistas. Com as palavras de quem esteve ao lado. Um gesto que vira ritual.",
   },
   {
     label: "III.",
     name: "O Encontro Trimestral",
-    text: "A cada três meses, o time se reúne com você — presencialmente ou por vídeo. Não para reportar números. Para celebrar caminhos.",
+    text: "A cada três meses, o time se reúne com você — em casa ou por vídeo. Não para falar de números. Para conversar sobre alguém querido.",
   },
 ];
 
