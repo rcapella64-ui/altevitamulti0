@@ -350,7 +350,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={2}>
             <p className="text-center text-lg text-ink-soft max-w-2xl mx-auto leading-relaxed mt-8">
-              Não porque assinaram um contrato. Porque encontraram um padrão de cuidado que não se troca.
+              Não por um contrato. Por um cuidado que, uma vez sentido, não se troca.
             </p>
           </Reveal>
 
