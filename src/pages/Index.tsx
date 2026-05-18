@@ -392,7 +392,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={2}>
             <p className="mt-12 text-lg text-ink-soft leading-relaxed max-w-xl mx-auto">
-              Converse com a coordenação da Altevita. Conheça o Multi. E descubra se ele é, também, o que você deseja para quem você ama.
+              Converse com quem cuida da Altevita. Conheça o Multi de perto. E descubra se é também isto que você sonha para quem você ama.
             </p>
           </Reveal>
           <Reveal delay={3}>
