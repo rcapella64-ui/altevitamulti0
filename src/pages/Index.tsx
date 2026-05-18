@@ -229,7 +229,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={2}>
             <p className="font-serif-italic text-4xl sm:text-6xl text-leaf-deep mt-10">
-              quem você ama.
+              Cuidar de quem você ama.
             </p>
           </Reveal>
           <Reveal delay={3}>
