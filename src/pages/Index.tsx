@@ -118,13 +118,13 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl text-ink mt-12 leading-[1.15]">
-              Toda família que coloca um pai ou uma mãe sob cuidados se faz, em silêncio, a mesma pergunta:
+              Toda família que confia o cuidado de um pai ou de uma mãe a outras mãos se faz, em silêncio, a mesma pergunta:
               <span className="font-serif-italic text-leaf-deep"> estou fazendo o suficiente?</span>
             </p>
           </Reveal>
           <Reveal delay={2}>
             <p className="mt-10 text-lg text-ink-soft leading-relaxed">
-              O Altevita Multi nasceu para que essa pergunta tenha, finalmente, uma resposta.
+              O Altevita Multi nasceu para que essa pergunta, enfim, encontre repouso.
             </p>
           </Reveal>
           <Reveal delay={3}>
