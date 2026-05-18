@@ -224,7 +224,7 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl mt-14 leading-[1.15]">
-              Toda semana, os cinco especialistas do Multi se reúnem em torno de um único objetivo:
+              Toda semana, os cinco olhares do Multi se encontram em torno de uma única intenção:
             </p>
           </Reveal>
           <Reveal delay={2}>
