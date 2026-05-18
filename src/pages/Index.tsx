@@ -312,14 +312,14 @@ const Index = () => {
           </Reveal>
           <Reveal delay={1}>
             <p className="font-serif-display text-3xl sm:text-5xl mt-12 leading-[1.18] text-paper">
-              Você não está adicionando serviços a um contrato.
+              Você não está contratando um cuidado.
               <br />
               <br />
               <span className="text-paper/70">Você está</span> escolhendo dormir mais tranquilo à noite.
               <br />
-              <span className="text-paper/70">Escolhendo</span> ter o que mostrar aos seus irmãos.
+              <span className="text-paper/70">Escolhendo</span> ter o que contar aos seus irmãos.
               <br />
-              <span className="text-paper/70">Escolhendo</span> saber, com certeza, que está fazendo o melhor possível por quem te criou.
+              <span className="text-paper/70">Escolhendo</span> saber, no fundo do peito, que está fazendo o melhor possível por quem te criou.
             </p>
           </Reveal>
           <Reveal delay={2}>
