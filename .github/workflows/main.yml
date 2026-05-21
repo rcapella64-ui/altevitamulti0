@@ -1,6 +1,6 @@
 name: Deploy via FTP (Locaweb)
 
-on:
+
   push:
     branches:
       - "main"
